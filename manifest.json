@@ -11,10 +11,10 @@
     "128": "images/icon-128.png"
   },
   "action": {
-    "default_popup": "src/index.html",
+    "default_popup": "src/popup.html",
     "default_icon": "images/logo.png"
   },
   "chrome_url_overrides": {
-    "newtab": "src/index.html"
+    "newtab": "src/newtab.html"
   }
 }

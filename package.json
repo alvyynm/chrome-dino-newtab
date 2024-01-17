@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alvyynm/chrome-dino-newtab/issues"
   },
-  "homepage": "https://github.com/alvyynm/chrome-dino-newtab#readme"
+  "homepage": "https://github.com/alvyynm/chrome-dino-newtab#readme",
+  "dependencies": {
+    "chrome-types": "^0.1.250"
+  }
 }

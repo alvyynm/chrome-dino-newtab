@@ -1,0 +1,23 @@
+{
+  "name": "chrome-dino-newtab",
+  "version": "1.0.0",
+  "description": "Play Chrome's Dino game anytime in your new tab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvyynm/chrome-dino-newtab.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "fun"
+  ],
+  "author": "Alvin Wanjala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvyynm/chrome-dino-newtab/issues"
+  },
+  "homepage": "https://github.com/alvyynm/chrome-dino-newtab#readme"
+}
